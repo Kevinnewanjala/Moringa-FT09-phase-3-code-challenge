@@ -1,6 +1,5 @@
 # models/Article.py
 
-import sqlite3
 from database.connection import get_db_connection
 from models.author import Author
 from models.magazine import Magazine

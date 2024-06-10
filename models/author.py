@@ -1,6 +1,5 @@
 # models/author.py
 
-import sqlite3
 from database.connection import get_db_connection
 
 class Author:
